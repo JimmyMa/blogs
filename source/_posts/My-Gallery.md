@@ -1,8 +1,6 @@
 ---
-layout: photo
-title: My Gallery
-date: 2019-07-01 11:00:00
-tags:
+title: My Gallery - Xi
+date: 2019-07-01T11:00:00.000Z
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
